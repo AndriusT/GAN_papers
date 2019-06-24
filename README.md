@@ -17,5 +17,5 @@ Example of GAN generated art ([source](https://theculturetrip.com/north-america/
 7. **Forging New Worlds: High-Resolution Synthetic Galaxies With Chained Generative Adversarial Networks:** ([git](https://github.com/levifussell/forging_new_worlds)) ([paper](https://arxiv.org/abs/1811.03081))
 8. **Stellar Cluster Detection using GMM with Deep Variational Autoencoder:** ([paper](https://arxiv.org/pdf/1809.01434.pdf))
 9. **A Deep Generative Model for Astronomical Images of Galaxies:** ([paper](https://www.researchgate.net/publication/310767074_A_deep_generative_model_for_astronomical_images_of_galaxies))
-10. **Generative Deep Fields: Arbitrarily Size, Random Synthetic Astronomical Images Through Deep Learning:** ([git](https://github.com/Smith42/XDF-GAN))
+10. **Generative Deep Fields: Arbitrarily Sized, Random Synthetic Astronomical Images Through Deep Learning:** ([git](https://github.com/Smith42/XDF-GAN))
 
