@@ -10,7 +10,7 @@ Example of GAN generated art ([source](https://theculturetrip.com/north-america/
 
 1. **cosmoGAN:** ([git](https://github.com/MustafaMustafa/cosmoGAN)) ([paper](https://arxiv.org/pdf/1706.02390.pdf)) 
 2. **radioGAN:** ([paper](https://arxiv.org/pdf/1906.03874.pdf))
-3. **exogGAN:** ([git](https://github.com/ucl-exoplanets/ExoGAN_public)) ([paper](https://arxiv.org/abs/1806.02906))
+3. **exoGAN:** ([git](https://github.com/ucl-exoplanets/ExoGAN_public)) ([paper](https://arxiv.org/abs/1806.02906))
 4. **Enabling Dark Energy Science with Deep Generative Models of Galaxy Images:** ([paper](https://arxiv.org/abs/1609.05796))
 5. **Fast Cosmic Web Simulations with Generative Adversarial Networks:** ([paper](https://arxiv.org/pdf/1801.09070.pdf))
 6. **Generative Adversarial Networks Recover Features in Astrophysical Images of Galaxies Beyond the Deconvolution Limit:** ([paper](https://arxiv.org/pdf/1702.00403.pdf))
