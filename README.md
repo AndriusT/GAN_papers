@@ -20,4 +20,5 @@ Example of GAN generated art ([source](https://theculturetrip.com/north-america/
 10. **Generative Deep Fields: Arbitrarily Sized, Random Synthetic Astronomical Images Through Deep Learning:** ([git](https://github.com/Smith42/XDF-GAN))
 11. **Model Comparison of Dark Energy models Using Deep Networks** ([paper](https://arxiv.org/pdf/1907.00568.pdf))
 12. **Self-supervised Learning with Physics-aware Neural Networks I: Galaxy Model Fitting** ([paper](https://arxiv.org/pdf/1907.03957.pdf))
-
+13. **CMB-GAN: Fast Simulations of Cosmic Microwave Background Anisotropy Maps Using Deep Learning** ([paper](https://arxiv.org/abs/1908.04682))
+14. **Cosmological N-body Simulations: a Challenge for Scalable Generative Models** ([paper](https://arxiv.org/pdf/1908.05519.pdf)) ([git](https://github.com/nperraud/3DcosmoGAN))
